@@ -1,0 +1,26 @@
+body{
+  
+  background-color: white
+}
+
+header{
+background-color: black
+
+
+}
+
+
+.clas1{
+ 
+  height:500px;
+  width: 700px;
+  display: inline-block;
+  background-color: black
+}
+.clas2{
+  height:150px;
+  width: 700px;
+  display: inline-block;
+}
+
+
