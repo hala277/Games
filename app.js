@@ -15,4 +15,5 @@ else if(favGame == "Animal Crossing: New Horizon"){
 }
 else{
   alert('we dont have this game');
+  
 }
