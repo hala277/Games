@@ -29,16 +29,9 @@ while (favGame != "Call Of Duty" && favGame != "Minecraft" && favGame != "Animal
 
 }
 
-var geameRate = prompt("how would you Rate these game out of 10!!");
-while(geameRate > 10){
-  geameRate = prompt("I Know they deserve more than 10 but you have to enter number less than 10!!");
-}
 
-var numberOf = prompt("how many bic you would like to see to it?");
 
-while(numberOf > 5){
-  numberOf = prompt("sorry you have to chose from 1 to 5");
-}
+
 
 if(favGame == "Call Of Duty"){
   for(var i =0 ; i < numberOf;i++){
